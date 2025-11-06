@@ -1,3 +1,11 @@
+-- CREATE TABLE ստեղծում է նոր աղյուսակ։
+-- INSERT INTO աղյուսակին նոր տող է ավելացնում։
+-- SELECT հարցումներ է կատարում աղյուսակից։
+-- ALTER TABLE փոփոխում է առկա աղյուսակը։
+-- UPDATE խմբագրում է աղյուսակի տողը։
+-- DELETE FROM ջնջում է տողերը աղյուսակից։
+
+
 --1) selecting all rows and creating a sample table.
 
 SELECT * FROM celebs;
