@@ -6,6 +6,7 @@
 -- DELETE FROM ջնջում է տողերը աղյուսակից։
 
 
+
 --1) selecting all rows and creating a sample table.
 
 SELECT * FROM celebs;
@@ -115,4 +116,5 @@ WHERE id = 1;
 
 SELECT * 
 FROM friends;
+
 
