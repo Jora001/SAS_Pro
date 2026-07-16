@@ -1,0 +1,6 @@
+
+  Obs  Name  Age  Status
+-----  ----  ---  ------
+    1  Anna   22  Adult
+    2  Ben    17  Minor
+

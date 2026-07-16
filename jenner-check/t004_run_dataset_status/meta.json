@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_run_dataset_status",
+  "source_file": "SAS-1/Data1.sas",
+  "source_blob_sha": "33f0d958c651abdfeee7d8ebe571f878f6dfdeeb",
+  "source_commit": "c20d082c092e4791893b68c634f571b0379b4ffd",
+  "notes": "The dataset literally named Run (lines 36-48): same Age-based Adult/Minor classification pattern as t002, but the dataset name shadows the RUN statement keyword, which is a small SAS quirk worth exercising on its own. Copied verbatim, mixed-case Data/Input/Datalines preserved as written."
+}

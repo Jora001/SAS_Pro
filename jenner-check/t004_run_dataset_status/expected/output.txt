@@ -1,0 +1,6 @@
+
+ Name  Age  Status
+-----  ---  ------
+Emush   15  Minor
+Jor     20  Adult
+
