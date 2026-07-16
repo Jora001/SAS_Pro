@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-16T06:47:22.479228+00:00",
+  "_captured_run_id": "r_415b8cc69b35431696c09ae26b414009",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260715T062217Z.x86_64-unknown-linux-gnu)",
+    "NOTE: Option OBS changed to 100.",
+    "NOTE: DATA cars",
+    "NOTE: Processing inline DATALINES (4 lines)",
+    "NOTE: Read 4 rows from DATALINES."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_cars_luxury_ifelse",
+  "source_file": "SAS-1/Data1.sas",
+  "source_blob_sha": "33f0d958c651abdfeee7d8ebe571f878f6dfdeeb",
+  "source_commit": "c20d082c092e4791893b68c634f571b0379b4ffd",
+  "notes": "The cars dataset block (lines 82-95): DATA step with a numeric threshold IF/THEN/ELSE classifying Brand/Price rows into Luxury/Budget, then PROC PRINT. Copied verbatim; added a trailing run; to close the PROC PRINT step in isolation."
+}

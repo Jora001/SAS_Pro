@@ -1,0 +1,7 @@
+
+Name  Age      Grade
+----  ---  ---------
+Jora   24  Hovsepyan
+Anna   22  Smith
+John   23  Doe
+

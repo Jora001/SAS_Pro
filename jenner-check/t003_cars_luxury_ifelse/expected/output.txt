@@ -1,0 +1,8 @@
+
+  Obs   Brand  Price    Type
+-----  ------  -----  ------
+    1  BMW     45000  Luxury
+    2  Toyota  28000  Budget
+    3  Audi    52000  Luxury
+    4  Kia     19000  Budget
+
